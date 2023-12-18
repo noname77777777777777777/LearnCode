@@ -1,0 +1,8 @@
+ciscocisco
+ciscociscocisco
+2001:db8:cafe::1/64
+172.16.1.62
+Ciscoenpa55
+Ciscoconpa55
+172.16.1.126 /26
+

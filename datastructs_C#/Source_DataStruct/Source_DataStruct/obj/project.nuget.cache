@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FlMU51BRC9gsYEypLZt771To1jWoOybLyPkOJWRCTbQ5MFhCxv6dBp4LUUk5NcoMLINLRYowmcZFt7Fi7UdU0Q==",
+  "success": true,
+  "projectFilePath": "D:\\Study\\datastructs_C#\\Source_DataStruct\\Source_DataStruct\\Source_DataStruct.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thanh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

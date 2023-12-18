@@ -1,0 +1,8 @@
+D:\Study\datastructs_C#\datastructs\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe.config
+D:\Study\datastructs_C#\datastructs\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe
+D:\Study\datastructs_C#\datastructs\FirstProgram\FirstProgram\bin\Debug\FirstProgram.pdb
+D:\Study\datastructs_C#\datastructs\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csproj.AssemblyReference.cache
+D:\Study\datastructs_C#\datastructs\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csproj.CoreCompileInputs.cache
+D:\Study\datastructs_C#\datastructs\FirstProgram\FirstProgram\obj\Debug\FirstProgram.exe
+D:\Study\datastructs_C#\datastructs\FirstProgram\FirstProgram\obj\Debug\FirstProgram.pdb
+D:\Study\datastructs_C#\datastructs\FirstProgram\FirstProgram\bin\Debug\FirstProgram.xml

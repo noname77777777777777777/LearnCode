@@ -1,0 +1,7 @@
+if(Isempty(b) == true){
+        return;
+    }else{
+        if(b->data == x){
+            return 
+        }
+    }

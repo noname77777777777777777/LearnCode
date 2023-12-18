@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "xstring": "cpp",
+        "iostream": "cpp",
+        "string": "cpp",
+        "stack": "cpp",
+        "xtr1common": "cpp",
+        "vector": "cpp",
+        "limits": "cpp",
+        "unordered_map": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "d:\\Study In class\\Practice_Leetcode\\can_place_flower.exe"
+}

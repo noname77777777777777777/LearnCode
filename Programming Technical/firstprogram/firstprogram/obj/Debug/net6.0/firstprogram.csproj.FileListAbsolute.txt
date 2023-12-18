@@ -1,0 +1,15 @@
+D:\Study\Programming Technical\firstprogram\firstprogram\bin\Debug\net6.0\firstprogram.exe
+D:\Study\Programming Technical\firstprogram\firstprogram\bin\Debug\net6.0\firstprogram.deps.json
+D:\Study\Programming Technical\firstprogram\firstprogram\bin\Debug\net6.0\firstprogram.runtimeconfig.json
+D:\Study\Programming Technical\firstprogram\firstprogram\bin\Debug\net6.0\firstprogram.dll
+D:\Study\Programming Technical\firstprogram\firstprogram\bin\Debug\net6.0\firstprogram.pdb
+D:\Study\Programming Technical\firstprogram\firstprogram\obj\Debug\net6.0\firstprogram.csproj.AssemblyReference.cache
+D:\Study\Programming Technical\firstprogram\firstprogram\obj\Debug\net6.0\firstprogram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Programming Technical\firstprogram\firstprogram\obj\Debug\net6.0\firstprogram.AssemblyInfoInputs.cache
+D:\Study\Programming Technical\firstprogram\firstprogram\obj\Debug\net6.0\firstprogram.AssemblyInfo.cs
+D:\Study\Programming Technical\firstprogram\firstprogram\obj\Debug\net6.0\firstprogram.csproj.CoreCompileInputs.cache
+D:\Study\Programming Technical\firstprogram\firstprogram\obj\Debug\net6.0\firstprogram.dll
+D:\Study\Programming Technical\firstprogram\firstprogram\obj\Debug\net6.0\refint\firstprogram.dll
+D:\Study\Programming Technical\firstprogram\firstprogram\obj\Debug\net6.0\firstprogram.pdb
+D:\Study\Programming Technical\firstprogram\firstprogram\obj\Debug\net6.0\firstprogram.genruntimeconfig.cache
+D:\Study\Programming Technical\firstprogram\firstprogram\obj\Debug\net6.0\ref\firstprogram.dll
